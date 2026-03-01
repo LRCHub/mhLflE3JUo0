@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "PEACH",
+  "base_artist": "大塚 愛",
+  "createdAt": "2026-03-01T17:00:56.144863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Peach Pit",
+      "artist": "The Swiss",
+      "has_synced": true,
+      "path": "select/01_Peach_Pit_The_Swiss.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Peach, Plum, Pear",
+      "artist": "Joanna Newsom",
+      "has_synced": true,
+      "path": "select/02_Peach,_Plum,_Pear_Joanna_Newsom.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fuzzy Peach",
+      "artist": "Brillz feat. Minxx",
+      "has_synced": false,
+      "path": "select/03_Fuzzy_Peach_Brillz_feat._Minxx.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fuzzy Peach",
+      "artist": "Brillz & Minxx",
+      "has_synced": false,
+      "path": "select/04_Fuzzy_Peach_Brillz_&_Minxx.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gold, Tan, Peach and Grey",
+      "artist": "Bodies of Water",
+      "has_synced": true,
+      "path": "select/05_Gold,_Tan,_Peach_and_Grey_Bodies_of_Water.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Peach",
+      "artist": "Broods",
+      "has_synced": true,
+      "path": "select/06_Peach_Broods.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Peach",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/07_Peach_Blur.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Giant Peach",
+      "artist": "Wolf Alice",
+      "has_synced": true,
+      "path": "select/08_Giant_Peach_Wolf_Alice.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Peach",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/09_Peach_Prince.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Peach",
+      "artist": "Kevin Abstract",
+      "has_synced": true,
+      "path": "select/10_Peach_Kevin_Abstract.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Peach Panther (Freestyle)",
+      "artist": "Riff Raff",
+      "has_synced": true,
+      "path": "select/11_Peach_Panther_(Freestyle)_Riff_Raff.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mutron Angel (feat. Whild Peach)",
+      "artist": "OutKast",
+      "has_synced": false,
+      "path": "select/12_Mutron_Angel_(feat._Whild_Peach)_OutKast.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Peach",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/13_Peach_Rod_Stewart.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PEACH",
+      "artist": "大塚 愛",
+      "has_synced": false,
+      "path": "select/pl_01_PEACH_大塚_愛.txt"
+    }
+  ]
+}
